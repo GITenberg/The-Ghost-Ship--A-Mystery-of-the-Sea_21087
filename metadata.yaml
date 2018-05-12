@@ -1,0 +1,32 @@
+_repo: The-Ghost-Ship--A-Mystery-of-the-Sea_21087
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Austin, Henry
+    gutenberg_agent_id: '9726'
+    url: http://www.gutenberg.org/2009/agents/9726
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hutcheson, John C. (John Conroy)
+    alias: Hutcheson, John Conroy
+    gutenberg_agent_id: '9724'
+    url: http://www.gutenberg.org/2009/agents/9724
+description: ''
+gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2007-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21087'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Sea stories'
+- !lcsh 'Fiction'
+title: 'The Ghost Ship: A Mystery of the Sea'
+url: http://www.gutenberg.org/ebooks/21087
